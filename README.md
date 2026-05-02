@@ -1,20 +1,20 @@
-\# Heart Failure Mortality Prediction
+# Predicting Mortality of Heart Failure Patients
 
 
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes a dataset of heart failure patients to predict mortality using machine learning techniques.
 
 
 
-##🧠 Goal
+## 🧠 Goal
 
 To build a model that predicts whether a patient is likely to survive heart failure.
 
 
 
-##🤖 Models Used
+## 🤖 Models Used
 
 Compared the performance of 2 Machine Learning models.
 
@@ -24,7 +24,7 @@ Compared the performance of 2 Machine Learning models.
 
 
 
-##📂 Files
+## 📂 Files
 
 \- `Project1\_Mortality of Heart Failure Patients.ipynb` → main analysis notebook
 
@@ -32,7 +32,7 @@ Compared the performance of 2 Machine Learning models.
 
 
 
-##⚙️ How to Run
+## ⚙️ How to Run
 
 1\. Open the notebook in Jupyter Notebook
 
@@ -40,7 +40,7 @@ Compared the performance of 2 Machine Learning models.
 
 
 
-##📊 Dataset
+## 📊 Dataset
 
 The dataset contains medical attributes such as:
 
@@ -60,7 +60,7 @@ The dataset contains medical attributes such as:
 
 
 
-##📊 Results
+## 📊 Results
 
 - Model: SVM
 - Accuracy: 86%
@@ -74,7 +74,7 @@ The dataset contains medical attributes such as:
 
 
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 \- Try advanced ML models
 
